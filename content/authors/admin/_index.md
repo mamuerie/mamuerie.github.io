@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Marie Mückstein
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marie
+last_name: Mückstein
 
 # Status emoji
 status:
@@ -20,36 +20,34 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: International Psychoanalytic University Berlin
+    url: https://www.ipu-berlin.de
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mariemueckstein@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mamuerie
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/marie-m-127216168/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=N058BeMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-7113-0879
+  - icon: academicons/osf
+    url: https://osf.io/6c7wz/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Control
+  - Brain Imaging
+  - Open Science
 
 education:
   - area: PhD Artificial Intelligence
@@ -128,18 +126,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Ultimate Frisbee
         description: ''
         percent: 80
-        icon: camera
+        icon: person-simple-walk
+      - name: Dogs
+        description: ''
+        percent: 100
+        icon: dog
+      - name: Knitting
+        description: ''
+        percent: 80
+        icon: woll
 
 languages:
   - name: English
