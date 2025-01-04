@@ -124,15 +124,15 @@ skills:
       - name: Matlab
         description: 'SPM, eeglab'
         percent: 80
-        icon: chart-bar
+        icon: code-bracket
       - name: Javascript
         description: 'jsPsych'
         precent: 70
-        icon: chart-bar
+        icon: code-bracket
       - name: python
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: code-bracket
       - name: Adobe Illustrator
         description: ''
         percent: 70
