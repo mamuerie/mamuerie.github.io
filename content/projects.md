@@ -14,8 +14,8 @@ sections:
       title: Selected Projects
       text: 
       filters:
-        #folders:
-        #  - project
+        folders:
+          - project
     design:
       view: article-grid
       fill_image: false
