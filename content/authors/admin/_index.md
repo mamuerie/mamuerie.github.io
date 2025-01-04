@@ -55,7 +55,7 @@ education:
     date_start: 2020-01-01
     date_end: 2025
     summary: |
-      Thesis on _Modality compatibility effect in dual-tasks - neurocognitive mechanisms in the human brain_. Supervised by [Prof Christine Stelzel](https://www.ipu-berlin.de/) and [Prof Michael A. Rapp]().
+      Thesis on modality compatibility effect in dual-tasks - neurocognitive mechanisms in the human brain. Supervised by [Prof Christine Stelzel](https://www.ipu-berlin.de/professoren/stelzel-christine/) and [Prof Michael A. Rapp](https://www.uni-potsdam.de/de/soz-praev-med/mitarbeiter/michael-rapp).
    # button:
     #  text: 'Read Thesis'
      # url: 'https://example.com'
@@ -65,24 +65,24 @@ education:
     date_end: 2020
     summary: |
       
-      Thesis: "Neuronal pattern of individual strategies in a task-switching paradigm" (1,3), supervised by Prof. Dietrich Manzey
+      Thesis: "Neuronal pattern of individual strategies in a task-switching paradigm" (1.3), supervised by Prof. Dietrich Manzey
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Biological Psychology and Ergonomics
+      - Advanced Statistics
+      - Cognitive Psychology and Usability Engineering
   - area: Basic & Advanced Track Design Thinking
     institution: Hasso-Plattner-Institut Potsdam, Germany
     date_start: 2019
     date_end: 2020
     summary: |
-      Hands-on introduction into Design Thinking.
+      Hands-on introduction to Design Thinking.
   - area: BSc Cognitive Science ("Kognitionswissenschaften")
     institution: Eberhard Karls Universität Tübingen
     date_start: 2011
     date_end: 2015
     summary: |
-      Thesis: "Zielgruppen spezifische analyse der user Experience von einem innovativen Fahrzeugdisplay (Prototyp)" (1,7), supervised by Prof. Arnd Engeln, Prof. Bettina Rolke
+      Thesis: "Zielgruppen spezifische Analyse der User Experience von einem innovativen Fahrzeugdisplay (Prototyp)" (1.7), supervised by Prof. Arnd Engeln, Prof. Bettina Rolke
       
       Courses included:
       - Psychology
@@ -117,17 +117,25 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
+        icon: code-bracket
+      - name: Matlab
+        description: 'SPM, eeglab'
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Javascript
+        description: 'jsPsych'
+        precent: 70
+        icon: chart-bar
+      - name: python
         description: ''
-        percent: 40
+        percent: 60
+        icon: circle-stack
+      - name: Adobe Illustrator
+        description: ''
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -140,11 +148,11 @@ skills:
       - name: Dogs
         description: ''
         percent: 100
-        icon: dogs
+        icon: dog
       - name: Knitting
         description: ''
         percent: 80
-        icon: woll
+        icon: jarn
 
 languages:
   - name: German
